@@ -1,0 +1,5 @@
+verbo:spegni
+target:computer
+command:system:shutdown -h now
+target:monitor
+command:code:print("Richiesto spegnimento del monitor")
